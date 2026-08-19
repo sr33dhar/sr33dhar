@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rishi
-- 👀 I’m interested in the intersection of Data Driven Modeling, Material Science, Quantum Chemistry, and Condensed Matter Physics.
+- 👀 I’m interested in the intersection of Data Driven Modeling, Material Science, and Quantum Chemistry.
 - 🌱 I’m currently working on AI4Science and Material Modeling.
 - 📫 How to reach me rishisr33dhar [at] gmail [dot] com
 
