@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Rishi
-- 👀 I’m interested in the intersection of Quantum Information, Computational Complexity, and Condensed Matter Physics (CMP)
-- 🌱 I’m currently learning Tensor Network methods for CMP and Julia Programming
-- 💞️ I’m looking to collaborate on Quantum Research Projects.
+- 👀 I’m interested in the intersection of Data Driven Modeling, Material Science, Quantum Chemistry, and Condensed Matter Physics.
+- 🌱 I’m currently working on AI4Science and Material Modeling.
 - 📫 How to reach me rishisr33dhar [at] gmail [dot] com
 
 <!---
